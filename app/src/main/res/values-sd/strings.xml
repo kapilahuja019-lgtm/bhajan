@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">ڀڄن</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_bhajans">ڀڄن</string>
+    <string name="tab_playlists">پلي لسٽ</string>
+    <string name="tab_settings">سيٽنگس</string>
+
+    <!-- Bhajan Screen -->
+    <string name="search_hint">ڀڄن يا ڳائڻي کي ڳوليو…</string>
+    <string name="chip_all">سڀ ڀڄن</string>
+    <string name="chip_favorites">پسنديده ❤️</string>
+    <string name="btn_reorder">ترتيب مٽايو</string>
+    <string name="btn_done_reorder">محفوظ ڪريو</string>
+    <string name="btn_play_all">سڀ وڄايو</string>
+    <string name="btn_shuffle">شفل</string>
+    <string name="btn_add_bhajan">+ نئون ڀڄن (MP3)</string>
+    <string name="add_bhajan_title">نئون ڀڄن شامل ڪريو</string>
+    <string name="select_audio_file">🎵 MP3 آڊيو چونڊيو</string>
+    <string name="audio_selected_fmt">آڊيو: %1$s ✓</string>
+    <string name="select_thumbnail">🖼️ تصوير چونڊيو (3:4)</string>
+    <string name="thumbnail_selected">تصوير چونڊيل ✓</string>
+    <string name="bhajan_name_label">ڀڄن جو نالو *</string>
+    <string name="artist_label">ڳائڻو / فنڪار (اختياري)</string>
+    <string name="please_select_audio">مهرباني ڪري پهرين MP3 چونڊيو!</string>
+    <string name="empty_bhajans">ڪو به ڀڄن نه مليو</string>
+    <string name="empty_favorites">اڃا ڪو پسنديده ڀڄن ناهي. دل ❤️ تي دٻايو!</string>
+    <string name="move_up">مٿي ڪريو</string>
+    <string name="move_down">هيٺ ڪريو</string>
+
+    <!-- Player Controls -->
+    <string name="now_playing">هاڻي وڄي رهيو آهي</string>
+    <string name="play">وڄايو</string>
+    <string name="pause">روڪيو</string>
+    <string name="next">اڳيون</string>
+    <string name="previous">پوئين</string>
+    <string name="rewind_10">۱۰ سيڪنڊ پوئتي</string>
+    <string name="forward_10">۱۰ سيڪنڊ اڳتي</string>
+    <string name="restart_bhajan">شروعات کان وڄايو ⭐</string>
+    <string name="close">بند ڪريو</string>
+    <string name="speed">رفتار</string>
+    <string name="sleep_timer">سليپ ٽائمر</string>
+    <string name="timer_off">بند</string>
+    <string name="timer_15m">۱۵ منٽ</string>
+    <string name="timer_30m">۳۰ منٽ</string>
+    <string name="timer_60m">۶۰ منٽ</string>
+    <string name="timer_active_fmt">سليپ ٽائمر: %1$d منٽ</string>
+    <string name="loop">ورجايو</string>
+    <string name="loop_off">بند</string>
+    <string name="loop_one">هڪ ڀڄن</string>
+    <string name="loop_all">سڀ ورجايو</string>
+
+    <!-- Playlists -->
+    <string name="new_playlist">نئين پلي لسٽ</string>
+    <string name="create_playlist_title">نئين پلي لسٽ ٺاهيو</string>
+    <string name="playlist_name_hint">مثلاً صبح جي آرِتي، رام ڀڄن</string>
+    <string name="rename_playlist">نالو مٽايو</string>
+    <string name="delete_playlist">پلي لسٽ هٽايو</string>
+    <string name="confirm_delete_title">ڇا پلي لسٽ هٽائڻي آهي؟</string>
+    <string name="confirm_delete_msg">ڇا توهان هي پلي لسٽ \"%1$s\" هٽائڻ چاهيو ٿا؟ اصل ڀڄن محفوظ رهندا.</string>
+    <string name="add_to_playlist">پلي لسٽ ۾ وجهو</string>
+    <string name="remove_from_playlist">پلي لسٽ مان ڪڍو</string>
+    <string name="empty_playlist">هي پلي لسٽ خالي آهي. ڀڄن شامل ڪريو!</string>
+    <string name="songs_count_fmt">%1$d ڀڄن</string>
+    <string name="save">محفوظ ڪريو</string>
+    <string name="cancel">رد ڪريو</string>
+    <string name="delete">هٽايو</string>
+
+    <!-- Settings -->
+    <string name="section_appearance">ڏيکاءُ ۽ آواز</string>
+    <string name="theme_title">ٿيم</string>
+    <string name="theme_system">سسٽم مطابق</string>
+    <string name="theme_light">هلڪو روشن (Light)</string>
+    <string name="theme_dark">رات جو اونداهو (Dark)</string>
+    
+    <string name="language_title">ٻولي / Language</string>
+    <string name="lang_hinglish">Hinglish / Roman</string>
+    <string name="lang_sindhi">سنڌي (Sindhi)</string>
+
+    <string name="autoplay_title">اڳيون ڀڄن پاڻمرادو وڄايو</string>
+    <string name="autoplay_desc">ڀڄن پورو ٿيڻ تي اڳيون خود شروع ٿيندو</string>
+
+    <string name="section_help">مدد ۽ فائيلون</string>
+    <string name="manage_bhajans_title">ڀڄن هٽايو (سيٽنگس)</string>
+    <string name="manage_bhajans_desc">دادي اما جي غلطي کان محفوظ رکڻ لاءِ هتان هٽايو</string>
+    <string name="manage_bhajans_dialog_title">هٽائڻ لاءِ ڀڄن چونڊيو</string>
+    <string name="confirm_delete_bhajan_title">ڀڄن هٽائڻو آهي؟</string>
+    <string name="confirm_delete_bhajan_msg">ڇا توهان هي ڀڄن \"%1$s\" پڪ سان هٽائڻ چاهيو ٿا؟</string>
+    <string name="no_bhajans_to_delete">هٽائڻ لاءِ ڪو ڀڄن ناهي.</string>
+    <string name="battery_help_title">پس منظر ۾ هلڻ جي مدد</string>
+    <string name="battery_help_desc">اسڪرين لاڪ ٿيڻ تي به ڀڄن هلندو رهي</string>
+
+    <string name="custom_songs_help_title">پنهنجا ڀڄن ڪيئن شامل ڪجن</string>
+    <string name="custom_songs_help_desc">نوان ڀڄن ۽ تصويرون وڌائڻ لاءِ هدايتون</string>
+    <string name="custom_songs_help_dialog_title">پنهنجو آڊيو ۽ تصوير شامل ڪريو</string>
+    <string name="custom_songs_help_dialog_text">مٿي ڏنل \'+ نئون ڀڄن (MP3)\' بٽڻ دٻايو، پنهنجي فون مان آڊيو ۽ تصوير چونڊيو ۽ محفوظ ڪريو!</string>
+    <string name="ok">ٺيڪ</string>
+
+    <!-- Permission Dialog -->
+    <string name="permission_notification_title">لاڪ اسڪرين ڪنٽرول</string>
+    <string name="permission_notification_msg">دادي اما لاڪ اسڪرين مان ڀڄن روڪڻ يا اڳتي ڪرڻ لاءِ اجازت ڏيو.</string>
+    <string name="permission_allow">اجازت ڏيو</string>
+    <string name="permission_later">پوءِ</string>
+</resources>

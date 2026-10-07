@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Diya Base Lamp Bowl -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M30,56 C30,70 41,78 54,78 C67,78 78,70 78,56 C78,54 75,54 70,56 C64,58 59,59 54,59 C49,59 44,58 38,56 C33,54 30,54 30,56 Z" />
+    <!-- Diya Stand / Lotus Base -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M44,78 L64,78 L68,84 L40,84 Z" />
+    <!-- Inner Lamp Glow Rim -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M36,58 C41,61 47,62 54,62 C61,62 67,61 72,58 C68,66 61,72 54,72 C47,72 40,66 36,58 Z" />
+    <!-- Sacred Flame Outer Glow -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,26 C57,34 66,42 66,49 C66,56 60.5,61 54,61 C47.5,61 42,56 42,49 C42,42 51,34 54,26 Z" />
+    <!-- Sacred Flame Inner Core -->
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M54,34 C56,39 61,44 61,49 C61,53 58,56 54,56 C50,56 47,53 47,49 C47,44 52,39 54,34 Z" />
+    <!-- Musical Swara Note 1 -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M72,32 L72,42 A3.5,3.5 0 1,1 68.5,38.5 L70,38.5 L70,34 L78,32 L78,38 A3.5,3.5 0 1,1 74.5,34.5 L76,34.5 L76,30 Z" />
+    <!-- Musical Swara Note 2 -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M32,36 L32,46 A3,3 0 1,1 29,43 L30.5,43 L30.5,36 Z" />
+</vector>

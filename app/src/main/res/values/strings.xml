@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">BHAJAN</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_bhajans">Bhajans</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Bhajan Screen -->
+    <string name="search_hint">Search Bhajan or Artist…</string>
+    <string name="chip_all">All Bhajans</string>
+    <string name="chip_favorites">Favorites ❤️</string>
+    <string name="btn_reorder">Change Order</string>
+    <string name="btn_done_reorder">Done</string>
+    <string name="btn_play_all">Play All</string>
+    <string name="btn_shuffle">Shuffle</string>
+    <string name="btn_add_bhajan">+ Add Bhajan (MP3)</string>
+    <string name="add_bhajan_title">Add Bhajan to Library</string>
+    <string name="select_audio_file">🎵 Choose MP3 File</string>
+    <string name="audio_selected_fmt">Audio: %1$s ✓</string>
+    <string name="select_thumbnail">🖼️ Choose Thumbnail Photo</string>
+    <string name="thumbnail_selected">Thumbnail Selected ✓</string>
+    <string name="bhajan_name_label">Bhajan Title *</string>
+    <string name="artist_label">Singer / Artist (Optional)</string>
+    <string name="please_select_audio">Please choose an MP3 file first!</string>
+    <string name="empty_bhajans">No bhajans found</string>
+    <string name="empty_favorites">No favorites yet. Tap ❤️ on any bhajan to save it here!</string>
+    <string name="move_up">Move Up</string>
+    <string name="move_down">Move Down</string>
+
+    <!-- Player Controls -->
+    <string name="now_playing">Now Playing</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="rewind_10">Rewind 10s</string>
+    <string name="forward_10">Forward 10s</string>
+    <string name="restart_bhajan">Start Over ⭐</string>
+    <string name="close">Close</string>
+    <string name="speed">Speed</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="timer_off">Off</string>
+    <string name="timer_15m">15m</string>
+    <string name="timer_30m">30m</string>
+    <string name="timer_60m">60m</string>
+    <string name="timer_active_fmt">Sleep timer: %1$d min</string>
+    <string name="loop">Loop</string>
+    <string name="loop_off">Off</string>
+    <string name="loop_one">Repeat One</string>
+    <string name="loop_all">Repeat All</string>
+
+    <!-- Playlists -->
+    <string name="new_playlist">New Playlist</string>
+    <string name="create_playlist_title">Create New Playlist</string>
+    <string name="playlist_name_hint">e.g. Morning Aarti, Ram Bhajans</string>
+    <string name="rename_playlist">Rename Playlist</string>
+    <string name="delete_playlist">Delete Playlist</string>
+    <string name="confirm_delete_title">Delete Playlist?</string>
+    <string name="confirm_delete_msg">Are you sure you want to delete \"%1$s\"? Your bhajans will remain safe in the main list.</string>
+    <string name="add_to_playlist">Add Bhajans</string>
+    <string name="remove_from_playlist">Remove from playlist</string>
+    <string name="empty_playlist">This playlist is empty. Tap \"Add Bhajans\" below!</string>
+    <string name="songs_count_fmt">%1$d Bhajans</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <!-- Settings -->
+    <string name="section_appearance">Appearance &amp; Sound</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_light">Warm Saffron (Light)</string>
+    <string name="theme_dark">Gentle Night (Dark)</string>
+    
+    <string name="language_title">Language / ٻولي</string>
+    <string name="lang_hinglish">Hinglish / Roman</string>
+    <string name="lang_sindhi">سنڌي (Sindhi)</string>
+
+    <string name="autoplay_title">Autoplay Next Bhajan</string>
+    <string name="autoplay_desc">Automatically play the next bhajan in the list</string>
+
+    <string name="section_help">Help &amp; Storage</string>
+    <string name="manage_bhajans_title">Delete Bhajans (Settings)</string>
+    <string name="manage_bhajans_desc">Safely remove bhajans away from grandmother\'s touch</string>
+    <string name="manage_bhajans_dialog_title">Select Bhajan to Delete</string>
+    <string name="confirm_delete_bhajan_title">Delete Bhajan?</string>
+    <string name="confirm_delete_bhajan_msg">Are you sure you want to permanently delete \"%1$s\"?</string>
+    <string name="no_bhajans_to_delete">No bhajans in library to delete.</string>
+    <string name="battery_help_title">Background Play &amp; Battery Settings</string>
+    <string name="battery_help_desc">Allow uninterrupted playback when your screen is locked</string>
+
+    <string name="custom_songs_help_title">How to Add Your Own Bhajans</string>
+    <string name="custom_songs_help_desc">Tap to see simple steps to add your family\'s audio files</string>
+    <string name="custom_songs_help_dialog_title">Adding Your Audio &amp; Photos</string>
+    <string name="custom_songs_help_dialog_text">1. Put your audio files (MP3/WAV) inside \'app/src/main/assets/audio/\'\n2. Put your 3:4 portrait pictures inside \'app/src/main/assets/images/\'\n3. Open \'app/src/main/assets/bhajans.json\' and add your title, audioFile, and thumbnail.\n4. Rebuild the app and your grandmother will see them instantly!</string>
+    <string name="ok">OK</string>
+
+    <!-- Permission Dialog -->
+    <string name="permission_notification_title">Music Controls on Lock Screen</string>
+    <string name="permission_notification_msg">Allow notification permission so your grandmother can pause and change bhajans directly from the lock screen.</string>
+    <string name="permission_allow">Allow</string>
+    <string name="permission_later">Not Now</string>
+</resources>

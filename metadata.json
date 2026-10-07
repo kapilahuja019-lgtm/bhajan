@@ -1,0 +1,8 @@
+{
+  "name": "BHAJAN",
+  "description": "Devotional audio player tailored for elderly users with large controls, offline playback, and high accessibility",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
